@@ -18,6 +18,13 @@ This project investigates crime patterns in Los Angeles from 2020 to 2024 using 
 
 ---
 
+## 📊 Dataset Source
+
+This project uses publicly available data from the Los Angeles Open Data Portal:  
+🔗 [Crime Data from 2020 to Present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
+
+---
+
 ## 💻 Technologies Used
 
 - **Python**: Core data processing and analysis  
