@@ -31,3 +31,27 @@ This project investigates crime patterns in Los Angeles from 2020 to 2024 using 
 
 ---
 
+## 🖼️ Project Preview
+
+### 🔹 Top 10 Crime Types in Los Angeles
+<img src="images/la_top_crimes.png" alt="Top Crime Types in LA" width="750"/>
+
+> *Bar chart displaying the most frequent crimes reported from 2020 to 2023. 'Vehicle - Stolen' leads with over 110K cases, followed by various assault and theft categories.*
+
+---
+
+### 🔹 Crime Rates Across Los Angeles Regions
+<img src="images/la_region_crime_distribution.png" alt="Crime Rates by Region" width="750"/>
+
+> *Comparative regional analysis reveals that the Central and 77th Street divisions have the highest reported crime counts, indicating potential hotspots for targeted policing.*
+
+---
+
+### 🔹 Crime Forecasting Using ARIMA
+<img src="images/la_crime_forecast.png" alt="Crime Forecast ARIMA" width="750"/>
+
+> *Time series forecasting predicts a ~15% decline in monthly crime incidents using ARIMA, with a 90% confidence interval for strategic law enforcement resource planning.*
+
+---
+
+
